@@ -143,4 +143,57 @@ data == 128, counter = 2
 data == 132, counter = 1
 data == 132, counter = 0
                  675sim time value of a = 249 and value of b = 133
-data == 0, cou
+data == 0, counter = 7
+data == 128, counter = 6
+data == 128, counter = 5
+data == 160, counter = 4
+data == 160, counter = 3
+data == 160, counter = 2
+data == 164, counter = 1
+data == 164, counter = 0
+                 720sim time value of a = 198 and value of b = 165
+data == 0, counter = 7
+data == 128, counter = 6
+data == 128, counter = 5
+data == 160, counter = 4
+data == 160, counter = 3
+data == 160, counter = 2
+data == 164, counter = 1
+data == 166, counter = 0
+                 765sim time value of a = 197 and value of b = 167
+data == 0, counter = 7
+data == 128, counter = 6
+data == 192, counter = 5
+data == 224, counter = 4
+data == 240, counter = 3
+data == 248, counter = 2
+data == 252, counter = 1
+data == 254, counter = 0
+                 810sim time value of a = 170 and value of b = 255
+data == 0, counter = 7
+data == 128, counter = 6
+data == 128, counter = 5
+data == 128, counter = 4
+data == 144, counter = 3
+data == 144, counter = 2
+data == 148, counter = 1
+data == 150, counter = 0
+                 855sim time value of a = 229 and value of b = 151
+data == 0, counter = 7
+data == 0, counter = 6
+data == 64, counter = 5
+data == 64, counter = 4
+data == 64, counter = 3
+data == 72, counter = 2
+data == 76, counter = 1
+data == 76, counter = 0
+                 900sim time value of a = 119 and value of b = 76
+data == 0, counter = -1
+data == 0, counter = -2
+data == 0, counter = -3
+data == 0, counter = -4
+data == 0, counter = -5
+data == 0, counter = -6
+data == 0, counter = -7
+data == 0, counter = -8
+$finish called at time : 1 us : File "C:/Users/Admin/Desktop/github-files/DSD-SEM5/binary to grey code/binary to grey code.srcs/sim_1/new/testbench.v" Line 53

@@ -10,7 +10,7 @@
 // Target Devices: Artix-7 xc7a35tcpg236-1
 // Tool Versions: XILINX vivado 2017.4
 // Description: 
-// Design code for an N bit grey code to binary converter using XOR gate logic 
+// Design code for an N bit binary to grey code converter using XOR gate logic 
 // Dependencies: 
 // 
 // Revision:
@@ -56,7 +56,7 @@ always @(data,counter)
         if(counter==N-1)
             data[counter]=a[counter];
         else
-            data[counter]=a[counter]^a[counter+1];
+            data[counter]=data[counter+1]^a[counter];
         
        if(counter==0)
         begin
