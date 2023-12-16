@@ -1,0 +1,23 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+                  45sim time value of a = 36 and value of b = 56
+                  90sim time value of a = 129 and value of b = 254
+                 135sim time value of a = 9 and value of b = 14
+                 180sim time value of a = 99 and value of b = 66
+                 225sim time value of a = 13 and value of b = 9
+                 270sim time value of a = 141 and value of b = 246
+                 315sim time value of a = 101 and value of b = 70
+                 360sim time value of a = 18 and value of b = 28
+                 405sim time value of a = 1 and value of b = 1
+                 450sim time value of a = 13 and value of b = 9
+                 495sim time value of a = 118 and value of b = 91
+                 540sim time value of a = 61 and value of b = 41
+                 585sim time value of a = 237 and value of b = 182
+                 630sim time value of a = 140 and value of b = 247
+                 675sim time value of a = 249 and value of b = 174
+                 720sim time value of a = 198 and value of b = 132
+                 765sim time value of a = 197 and value of b = 134
+                 810sim time value of a = 170 and value of b = 204
+                 855sim time value of a = 229 and value of b = 185
+                 900sim time value of a = 119 and value of b = 90
+$finish called at time : 1 us : File "C:/Users/Admin/Desktop/github-files/DSD-SEM5/grey code to binary/grey code to binary.srcs/sim_1/new/testbench.v" Line 53

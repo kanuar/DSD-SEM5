@@ -1,0 +1,84 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+fifo = '{8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx,8'bxxxxxxxx}
+fifo = '{0,0,0,0,0,0,0,0,0,0,0,0}
+fifo = '{0,0,0,0,0,0,0,0,0,0,0,129}
+simulation time =                   55  data_in = 129, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,0,0,0,0,0,0,0,0,0,129,129}
+simulation time =                   85  data_in = 99, data_out=129, fifo_write= 0,fifo_read= 1
+fifo = '{0,0,0,0,0,0,0,0,0,0,129,0}
+fifo = '{0,0,0,0,0,0,0,0,0,141,0,0}
+simulation time =                  115  data_in = 141, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,0,0,0,0,0,0,0,141,0,0,0}
+simulation time =                  145  data_in = 18, data_out=141, fifo_write= 0,fifo_read= 1
+fifo = '{0,0,0,0,0,0,0,0,0,0,0,0}
+fifo = '{0,0,0,0,0,0,0,13,0,0,0,0}
+simulation time =                  175  data_in = 13, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,0,0,0,0,0,13,13,0,0,0,0}
+simulation time =                  205  data_in = 61, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,0,0,0,0,0,13,13,0,0,0,0}
+fifo = '{0,0,0,0,0,140,13,13,0,0,0,0}
+simulation time =                  235  data_in = 140, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,0,0,0,140,140,13,13,0,0,0,0}
+simulation time =                  265  data_in = 198, data_out=0, fifo_write= 0,fifo_read= 1
+fifo = '{0,0,0,0,140,140,13,13,0,0,0,0}
+fifo = '{0,0,0,170,140,140,13,13,0,0,0,0}
+simulation time =                  295  data_in = 170, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,0,170,170,140,140,13,13,0,0,0,0}
+simulation time =                  325  data_in = 119, data_out=0, fifo_write= 0,fifo_read= 1
+fifo = '{0,0,170,170,140,140,13,13,0,0,0,0}
+fifo = '{0,143,170,170,140,140,13,13,0,0,0,0}
+simulation time =                  355  data_in = 143, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,0,0,0,143}
+simulation time =                  385  data_in = 206, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,0,0,0,143}
+fifo = '{0,143,170,170,140,140,13,13,0,0,197,143}
+simulation time =                  415  data_in = 197, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,0,197,197,143}
+simulation time =                  445  data_in = 189, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,0,197,197,143}
+fifo = '{0,143,170,170,140,140,13,13,101,197,197,0}
+simulation time =                  475  data_in = 101, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,143,170,170,140,140,13,13,101,197,0,0}
+simulation time =                  505  data_in = 10, data_out=197, fifo_write= 0,fifo_read= 1
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+simulation time =                  535  data_in = 32, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+simulation time =                  565  data_in = 157, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+simulation time =                  595  data_in = 19, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,143,170,170,140,140,13,13,101,0,0,0}
+simulation time =                  625  data_in = 83, data_out=101, fifo_write= 0,fifo_read= 1
+fifo = '{0,143,170,170,140,140,13,13,0,0,0,0}
+fifo = '{0,143,170,170,140,140,13,0,0,0,0,0}
+simulation time =                  655  data_in = 213, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,143,170,170,140,140,0,213,0,0,0,0}
+simulation time =                  685  data_in = 174, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,143,170,170,140,140,0,213,0,0,0,0}
+fifo = '{0,143,170,170,140,0,207,213,0,0,0,0}
+simulation time =                  715  data_in = 207, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,143,170,170,0,207,207,213,0,0,0,0}
+simulation time =                  745  data_in = 10, data_out=170, fifo_write= 0,fifo_read= 1
+fifo = '{0,143,170,0,0,207,207,213,0,0,0,0}
+fifo = '{0,143,170,0,60,207,207,213,0,0,0,0}
+simulation time =                  775  data_in = 60, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,143,170,60,60,207,207,213,0,0,0,0}
+simulation time =                  805  data_in = 138, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,143,170,60,60,207,207,213,0,0,0,0}
+fifo = '{0,143,0,60,60,207,207,213,0,0,0,0}
+simulation time =                  835  data_in = 216, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,0,216,60,60,207,207,213,0,0,0,0}
+simulation time =                  865  data_in = 137, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,0,216,60,60,207,207,213,0,0,0,0}
+fifo = '{0,182,216,60,60,207,207,213,0,0,0,0}
+simulation time =                  895  data_in = 182, data_out=0, fifo_write= 1,fifo_read= 1
+fifo = '{0,182,216,60,60,207,207,213,0,0,0,182}
+simulation time =                  925  data_in = 174, data_out=0, fifo_write= 0,fifo_read= 0
+fifo = '{0,182,216,60,60,207,207,213,0,0,0,182}
+fifo = '{0,182,216,60,60,207,207,213,0,0,42,182}
+simulation time =                  955  data_in = 42, data_out=0, fifo_write= 1,fifo_read= 0
+fifo = '{0,182,216,60,60,207,207,213,0,42,42,182}
+simulation time =                  985  data_in = 113, data_out=42, fifo_write= 0,fifo_read= 1
+fifo = '{0,182,216,60,60,207,207,213,0,42,0,182}
