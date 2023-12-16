@@ -1,0 +1,146 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = x
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 32, counter = 4
+data == 48, counter = 3
+data == 48, counter = 2
+data == 52, counter = 1
+data == 54, counter = 0
+                  45sim time value of a = 36 and value of b = 54
+data == 0, counter = 7
+data == 128, counter = 6
+data == 192, counter = 5
+data == 192, counter = 4
+data == 192, counter = 3
+data == 192, counter = 2
+data == 192, counter = 1
+data == 192, counter = 0
+                  90sim time value of a = 129 and value of b = 193
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 0, counter = 4
+data == 0, counter = 3
+data == 8, counter = 2
+data == 12, counter = 1
+data == 12, counter = 0
+                 135sim time value of a = 9 and value of b = 13
+data == 0, counter = 7
+data == 0, counter = 6
+data == 64, counter = 5
+data == 64, counter = 4
+data == 80, counter = 3
+data == 80, counter = 2
+data == 80, counter = 1
+data == 82, counter = 0
+                 180sim time value of a = 99 and value of b = 82
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 0, counter = 4
+data == 0, counter = 3
+data == 8, counter = 2
+data == 8, counter = 1
+data == 10, counter = 0
+                 225sim time value of a = 13 and value of b = 11
+data == 0, counter = 7
+data == 128, counter = 6
+data == 192, counter = 5
+data == 192, counter = 4
+data == 192, counter = 3
+data == 200, counter = 2
+data == 200, counter = 1
+data == 202, counter = 0
+                 270sim time value of a = 141 and value of b = 203
+data == 0, counter = 7
+data == 0, counter = 6
+data == 64, counter = 5
+data == 64, counter = 4
+data == 80, counter = 3
+data == 80, counter = 2
+data == 84, counter = 1
+data == 86, counter = 0
+                 315sim time value of a = 101 and value of b = 87
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 0, counter = 4
+data == 16, counter = 3
+data == 24, counter = 2
+data == 24, counter = 1
+data == 26, counter = 0
+                 360sim time value of a = 18 and value of b = 27
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 0, counter = 4
+data == 0, counter = 3
+data == 0, counter = 2
+data == 0, counter = 1
+data == 0, counter = 0
+                 405sim time value of a = 1 and value of b = 1
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 0, counter = 4
+data == 0, counter = 3
+data == 8, counter = 2
+data == 8, counter = 1
+data == 10, counter = 0
+                 450sim time value of a = 13 and value of b = 11
+data == 0, counter = 7
+data == 0, counter = 6
+data == 64, counter = 5
+data == 64, counter = 4
+data == 64, counter = 3
+data == 72, counter = 2
+data == 76, counter = 1
+data == 76, counter = 0
+                 495sim time value of a = 118 and value of b = 77
+data == 0, counter = 7
+data == 0, counter = 6
+data == 0, counter = 5
+data == 32, counter = 4
+data == 32, counter = 3
+data == 32, counter = 2
+data == 32, counter = 1
+data == 34, counter = 0
+                 540sim time value of a = 61 and value of b = 35
+data == 0, counter = 7
+data == 128, counter = 6
+data == 128, counter = 5
+data == 128, counter = 4
+data == 144, counter = 3
+data == 152, counter = 2
+data == 152, counter = 1
+data == 154, counter = 0
+                 585sim time value of a = 237 and value of b = 155
+data == 0, counter = 7
+data == 128, counter = 6
+data == 192, counter = 5
+data == 192, counter = 4
+data == 192, counter = 3
+data == 200, counter = 2
+data == 200, counter = 1
+data == 202, counter = 0
+                 630sim time value of a = 140 and value of b = 202
+data == 0, counter = 7
+data == 128, counter = 6
+data == 128, counter = 5
+data == 128, counter = 4
+data == 128, counter = 3
+data == 128, counter = 2
+data == 132, counter = 1
+data == 132, counter = 0
+                 675sim time value of a = 249 and value of b = 133
+data == 0, cou
